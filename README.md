@@ -2,7 +2,7 @@
 An application for tracking tasks using Realm.
 
 
-# Описание
+# Description
 
 1. The application consists of 2 screens 
 2. On the first screen you can add tasks, edit task descriptions, mark as done by swiping to the left. 
