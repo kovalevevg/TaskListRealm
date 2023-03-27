@@ -1,16 +1,17 @@
 # TaskListRealm
-Приложение для треккинга задач c использованием Realm.
+An application for tracking tasks using Realm.
 
 
 # Описание
 
-1. Приложение состоит из 2х экранов 
-2. На первом экране есть возможность добавлять задачи, редактировать описание задач, свайпом влево отмечать как выполненную. 
-3. На первом экране есть возможность сортировать задачи по алфовиту
-3. При нажатии на задачу, открывается 2й экран, где можно добавлять подпункты связанные с задачей. При свайпе влево можно удалить, отредактировать, 
-отметить как "выполнена/не выполнена" при длинном свайпе задача автоматически отмечается как "выполненной/не выполненной". 
+1. The application consists of 2 screens 
+2. On the first screen you can add tasks, edit task descriptions, mark as done by swiping to the left. 
+On the first screen you can sort the tasks alphabetically
+3. Clicking on a task will open second screen where you can add sub-items related to the task. By swiping to the left, you can delete, edit, 
+mark as "done/not done" with a long swipe, the task is automatically marked as "done/not done". 
 
-1й экран
+
+1й screen
 
 
 ![Simulator Screen Shot - iPhone 14 Pro - 2022-11-25 at 21 55 36](https://user-images.githubusercontent.com/76981561/204054540-f2d4dbaa-7606-4bed-a383-d62cd71247bf.png)
@@ -24,7 +25,7 @@
 ![Simulator Screen Shot - iPhone 14 Pro - 2022-11-25 at 21 55 58](https://user-images.githubusercontent.com/76981561/204054758-00445257-797d-4e95-81be-9458e3437245.png)
 
 
-2й экран
+2й screen
 
 
 
